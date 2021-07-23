@@ -1,6 +1,6 @@
 # Maintainer: dr460nf1r3 <dr460nf1r3 at garudalinux dot org>
 
-pkgname=yocto-support
+pkgname=yocto-meta
 pkgver=1
 pkgrel=1
 arch=('any')
